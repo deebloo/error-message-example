@@ -1,5 +1,7 @@
 # ErrorExample
 
+To show error example just run ```npm start``` (it is updated to use AOT)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
 ## Development server
